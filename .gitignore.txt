@@ -1,0 +1,12 @@
+# Qt / CMake build
+build*/
+cmake-build*/
+
+# Qt Creator
+*.user
+*.pro.user*
+*.autosave
+
+# OS
+.DS_Store
+Thumbs.db
